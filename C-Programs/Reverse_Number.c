@@ -1,5 +1,4 @@
 // Write a program to find reverse of a 4 digit number.
-
 #include <stdio.h>
 
 int main() {

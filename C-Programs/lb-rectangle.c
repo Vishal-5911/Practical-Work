@@ -1,5 +1,4 @@
 // Write a program to find length and breadth of a rectangle
-
 #include <stdio.h>
 #include <math.h>
 
