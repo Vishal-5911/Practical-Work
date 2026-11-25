@@ -1,2 +1,4 @@
-C-Programs/Swap.c
-*.c
+*.exe
+*.o
+*.obj
+*.out
