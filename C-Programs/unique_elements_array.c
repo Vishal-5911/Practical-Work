@@ -15,7 +15,7 @@ int main() {
 
     int arr[n];
 
-    printf("Enter unique numbers: ");
+    printf("Enter unique numbers: \n");
     while (count < n) {
         scanf("%d", &num);
         isDuplicate = 0;

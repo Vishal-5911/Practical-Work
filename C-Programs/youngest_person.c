@@ -1,11 +1,11 @@
-// Write a program to find youngest of three persons[cite: 6]
+// Write a program to find youngest of three persons
 
 #include <stdio.h>
 
 int main() {
     int ag, ab, ac;
 
-    printf("Enter the age of A, B and C : ");
+    printf("Enter the age of A, B and C : \n");
     scanf("%d %d %d", &ag, &ab, &ac);
 
     if (ag <= ab && ag <= ac) {
